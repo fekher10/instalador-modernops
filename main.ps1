@@ -25,3 +25,4 @@ $btnContinuar.Add_Click({
 
 # Mostrar la ventana
 $window.ShowDialog()
+
